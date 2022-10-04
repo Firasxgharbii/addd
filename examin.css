@@ -1,0 +1,45 @@
+h1{
+font-size: 50px;
+color: blue;
+}
+p{
+    font-size: 30px;
+    color:black;
+}
+h2{
+    font-size: 40px;
+    color: aqua;
+}
+h3{
+    font-size: 40px;
+    color: aqua;
+}
+h4{
+    font-size: 40px;
+    color: brown;
+}
+
+iframe{
+border: blueviolet 10px solid;
+}
+
+.Tunisie{  
+    width: 90%;
+    padding: 20px;
+    margin:100px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.box{
+    width: 250px;
+    margin: 0 10px;
+    box-shadow: 0 0 20px 2px rgba(0, 0, 0, .1);
+    border-radius: 5px;
+}
+.box img{               
+    display: block;
+    width: 100%;
+    border-radius: 5px;                   
+}
